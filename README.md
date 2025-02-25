@@ -44,6 +44,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kalimbinha/Kalimbinha/output/snake.svg" alt="Snake animation" />
+<h3 align="center"> :) </h3>
+
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6e539a9-b861-4e01-b32c-d9ee430db225">
+</p>
+
 
 ###
