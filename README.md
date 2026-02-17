@@ -1,5 +1,4 @@
-<h1 align="center">Kalimbinha</h1>
-<h2 align="center">Fernando Barreto</h2>
+<h1 align="center">Kalimbinha | Fernando Barreto</h1>
 
 <p align="center">
   Computer Science Student |
