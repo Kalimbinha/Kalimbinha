@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Science Student |
-  Junior Full Stack Developer |
+  Full Stack Developer |
   Technology Enthusiast
 </p>
 
